@@ -10,7 +10,6 @@ public:
             string a=word2[i];
         w2=w2+a;
         }
-        cout<<w1<<" "<<w2<<endl;
         if(w2==w1){
             return true;
         }
